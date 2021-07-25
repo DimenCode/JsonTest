@@ -1,1 +1,1 @@
-data = [40 , "nope, sorry"]
+data = ["40" , "nope, sorry"]
