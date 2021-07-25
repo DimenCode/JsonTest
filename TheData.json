@@ -1,1 +1,9 @@
-data = ["40" , "nope, sorry"]
+{
+
+	"data" : [
+		{
+			"mars" : 14 ,
+			"maybe" : "hub"
+		}
+	]
+}
