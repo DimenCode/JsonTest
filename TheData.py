@@ -1,4 +1,1 @@
-data = [
-  bruh = 40
-  message = "nope, sorry"
-]
+data = [bruh = 40, message = "nope, sorry"]
