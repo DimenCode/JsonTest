@@ -1,7 +1,5 @@
 {
-Data : {
 "name" : "John",
 "age" : 30, 
 "car" : true
-	}
 }
