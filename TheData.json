@@ -1,4 +1,5 @@
-data = [
-"what you testing ?",
-"nothing ."
-	]
+Data : {
+"name" : "John",
+"age" : 30, 
+"car" : true
+	}
